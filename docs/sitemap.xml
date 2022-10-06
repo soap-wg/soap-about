@@ -3,21 +3,21 @@
         xmlns:xhtml="http://www.w3.org/1999/xhtml">
     
     <url>
-        <loc>http://example.org/</loc>
+        <loc>https://soap-wg.github.io/</loc>
         <lastmod>2022-10-06T11:46:35+02:00</lastmod>
     </url>
     
     <url>
-        <loc>http://example.org/sources/</loc>
+        <loc>https://soap-wg.github.io/sources/</loc>
         <lastmod>2022-10-06T11:46:35+02:00</lastmod>
     </url>
     
     <url>
-        <loc>http://example.org/categories/</loc>
+        <loc>https://soap-wg.github.io/categories/</loc>
     </url>
     
     <url>
-        <loc>http://example.org/tags/</loc>
+        <loc>https://soap-wg.github.io/tags/</loc>
     </url>
     
 </urlset>

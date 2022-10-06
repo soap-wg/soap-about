@@ -1,13 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SOAP: OpenID Connect-based Social Authentication Protocol Applied to Messaging Applications on SOAP Project</title>
-    <link>http://example.org/</link>
+    <link>https://soap-wg.github.io/</link>
     <description>Recent content on SOAP Project</description>
     
     <language>en-us</language>
     <lastBuildDate>Thu, 06 Oct 2022 11:46:35 +0200</lastBuildDate>
     
-    <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://soap-wg.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
