@@ -2,6 +2,7 @@ baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "SOAP Project"
 theme = "astatine"
+publishDir = "docs"
 
 preserveTaxonomyNames = true
 
