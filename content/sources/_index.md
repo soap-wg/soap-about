@@ -1,0 +1,38 @@
+---
+title: "Sources"
+date: 2022-10-06T11:46:35+02:00
+draft: false
+---
+
+## Formal Proofs
+
+## Web-based Prototype
+
+The web-based prototype can be reached under https://soap-proto.net.
+Find all source code for the web-based prototype below.
+The source code archives contain a README.
+
+Note that the build archive is hardcoded to work for the prototype's URL only.
+
+* [Build (minified sources)](https://github.com/soap-wg/soap-web/releases/download/initial-relase/build.zip)
+* [Source code (zip)](https://github.com/soap-wg/soap-web/archive/refs/tags/initial-relase.zip)
+* [Source code (tar.gz)](https://github.com/soap-wg/soap-web/archive/refs/tags/initial-relase.tar.gz)
+
+## Signal Prototype
+
+The Signal prototype is available as precompiled debug .apks, and as source code.
+To install an .apk, you need to load it on your phone and enable to install apps from unknown sources.
+
+The prototype uses the standard Signal servers, i.e., you need to register with a valid phone number to use the prototype.
+The prototype is backwards-compatible with other Signal clients.
+SOAP messages will be rendered as text messages containing base64-encoded data.
+
+To import the source code in Android Studio, please follow the instructions of the [signalapp/Signal-Android](https://github.com/signalapp/Signal-Android) repository.
+
+* [Signal-Android-play-prod-arm64-v8a-debug-5.50.2.apk](https://github.com/soap-wg/Signal-Android/releases/download/proto-release/Signal-Android-play-prod-arm64-v8a-debug-5.50.2.apk)
+* [Signal-Android-play-prod-armeabi-v7a-debug-5.50.2.apk](https://github.com/soap-wg/Signal-Android/releases/download/proto-release/Signal-Android-play-prod-armeabi-v7a-debug-5.50.2.apk)
+* [Signal-Android-play-prod-universal-debug-5.50.2.apk](https://github.com/soap-wg/Signal-Android/releases/download/proto-release/Signal-Android-play-prod-universal-debug-5.50.2.apk)
+* [Signal-Android-play-prod-x86-debug-5.50.2.apk](https://github.com/soap-wg/Signal-Android/releases/download/proto-release/Signal-Android-play-prod-x86-debug-5.50.2.apk)
+* [Signal-Android-play-prod-x86_64-debug-5.50.2.apk](https://github.com/soap-wg/Signal-Android/releases/download/proto-release/Signal-Android-play-prod-x86_64-debug-5.50.2.apk)
+* [Source code (zip)](https://github.com/soap-wg/Signal-Android/archive/refs/tags/proto-release.zip)
+* [Source code (tar.gz)](https://github.com/soap-wg/Signal-Android/archive/refs/tags/proto-release.tar.gz)
