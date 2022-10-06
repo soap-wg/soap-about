@@ -6,6 +6,12 @@ draft: false
 
 ## Formal Proofs
 
+The formal model and proofs for SOAP were encoded for the [Tamarin model checker](https://tamarin-prover.github.io/).
+The source code archives contain a README detailing how to check the proofs.
+
+* [Source code (zip)](https://github.com/soap-wg/soap-proofs/archive/refs/tags/proofs.zip)
+* [Source code (tar.gz)](https://github.com/soap-wg/soap-proofs/archive/refs/tags/proofs.tar.gz)
+
 ## Web-based Prototype
 
 The web-based prototype can be reached under https://soap-proto.net.
