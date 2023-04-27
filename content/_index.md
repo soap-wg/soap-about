@@ -22,7 +22,7 @@ The paper contains four contributions.
 * We formally define the notion of *Social Authentication* as a security property.
 * We present the protocol design of SOAP.
 * We formally verify SOAP's security using the Tamarin model checker.
-* We implement SOAP in two prototypes: a web-based prototype which can be reached under [this URL](https://soap-proto.net), and an extension of the Signal Android application.
+* We implement SOAP in two prototypes: a [web-based prototype](https://soap-proto.net), and an extension of the Signal Android application.
 A video demo of the Signal prototype is shown below.
 
 You can find all sources related to this project [here](/sources).
