@@ -9,8 +9,8 @@ draft: false
 The formal model and proofs for SOAP were encoded for the [Tamarin model checker](https://tamarin-prover.github.io/).
 The source code archives contain a README detailing how to check the proofs.
 
-* [Source code (zip)](https://github.com/soap-wg/soap-proofs/archive/refs/tags/proofs.zip)
-* [Source code (tar.gz)](https://github.com/soap-wg/soap-proofs/archive/refs/tags/proofs.tar.gz)
+* [Source code (zip)](https://github.com/soap-wg/soap-proofs/archive/refs/tags/ccs-proofs.zip)
+* [Source code (tar.gz)](https://github.com/soap-wg/soap-proofs/archive/refs/tags/ccs-proofs.tar.gz)
 
 ## Web-based Prototype
 
@@ -35,10 +35,10 @@ SOAP messages will be rendered as text messages containing base64-encoded data.
 
 To import the source code in Android Studio, please follow the instructions of the [signalapp/Signal-Android](https://github.com/signalapp/Signal-Android) repository.
 
-* [Signal-Android-play-prod-arm64-v8a-debug-5.50.2.apk](https://github.com/soap-wg/Signal-Android/releases/download/proto-release/Signal-Android-play-prod-arm64-v8a-debug-5.50.2.apk)
-* [Signal-Android-play-prod-armeabi-v7a-debug-5.50.2.apk](https://github.com/soap-wg/Signal-Android/releases/download/proto-release/Signal-Android-play-prod-armeabi-v7a-debug-5.50.2.apk)
-* [Signal-Android-play-prod-universal-debug-5.50.2.apk](https://github.com/soap-wg/Signal-Android/releases/download/proto-release/Signal-Android-play-prod-universal-debug-5.50.2.apk)
-* [Signal-Android-play-prod-x86-debug-5.50.2.apk](https://github.com/soap-wg/Signal-Android/releases/download/proto-release/Signal-Android-play-prod-x86-debug-5.50.2.apk)
-* [Signal-Android-play-prod-x86_64-debug-5.50.2.apk](https://github.com/soap-wg/Signal-Android/releases/download/proto-release/Signal-Android-play-prod-x86_64-debug-5.50.2.apk)
-* [Source code (zip)](https://github.com/soap-wg/Signal-Android/archive/refs/tags/proto-release.zip)
-* [Source code (tar.gz)](https://github.com/soap-wg/Signal-Android/archive/refs/tags/proto-release.tar.gz)
+* [Signal-Android-play-prod-arm64-v8a-debug-6.18.3.apk](https://github.com/soap-wg/Signal-Android/releases/download/ccs-proto/Signal-Android-play-prod-arm64-v8a-debug-6.18.3.apk)
+* [Signal-Android-play-prod-armeabi-v7a-debug-6.18.3.apk](https://github.com/soap-wg/Signal-Android/releases/download/ccs-proto/Signal-Android-play-prod-armeabi-v7a-debug-6.18.3.apk)
+* [Signal-Android-play-prod-universal-debug-6.18.3.apk](https://github.com/soap-wg/Signal-Android/releases/download/ccs-proto/Signal-Android-play-prod-universal-debug-6.18.3.apk)
+* [Signal-Android-play-prod-x86-debug-6.18.3.apk](https://github.com/soap-wg/Signal-Android/releases/download/ccs-proto/Signal-Android-play-prod-x86-debug-6.18.3.apk)
+* [Signal-Android-play-prod-x86_64-debug-6.18.3.apk](https://github.com/soap-wg/Signal-Android/releases/download/ccs-proto/Signal-Android-play-prod-x86_64-debug-6.18.3.apk)
+* [Source code (zip)](https://github.com/soap-wg/Signal-Android/archive/refs/tags/ccs-proto.zip)
+* [Source code (tar.gz)](https://github.com/soap-wg/Signal-Android/archive/refs/tags/ccs-proto.tar.gz)
