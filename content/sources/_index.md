@@ -4,13 +4,18 @@ date: 2022-10-06T11:46:35+02:00
 draft: false
 ---
 
+All sources related to SOAP can also be found in the repositories of our [GitHub organization](https://github.com/orgs/soap-wg/repositories).
+Please note that accessing the repositories will deanonymize the authors.
+
 ## Formal Proofs
 
 The formal model and proofs for SOAP were encoded for the [Tamarin model checker](https://tamarin-prover.github.io/).
 The source code archives contain a README detailing how to check the proofs.
 
-* [Source code (zip)](https://github.com/soap-wg/soap-proofs/archive/refs/tags/usenix-pre.zip)
-* [Source code (tar.gz)](https://github.com/soap-wg/soap-proofs/archive/refs/tags/usenix-pre.tar.gz)
+* [Source code (zip)](https://github.com/soap-wg/soap-proofs/archive/refs/tags/usenix.zip)
+* [Source code (tar.gz)](https://github.com/soap-wg/soap-proofs/archive/refs/tags/usenix.tar.gz)
+
+Should you require anonymized proofs, please use [this download link](https://github.com/soap-wg/soap-proofs/archive/refs/tags/usenix.zip).
 
 ## Web-based Prototype
 

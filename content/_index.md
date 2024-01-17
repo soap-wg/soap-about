@@ -12,11 +12,10 @@ date: 2022-10-06T11:46:35+02:00
 draft: false
 ---
 
-SOAP is a novel social authentication protocol.
+SOAP is a social authentication protocol.
 When performing social authentication, users verify that their chat partner controls accounts at different identity providers (IdPs) which they know are controlled by their intended chat partner.
 Using social authentication, users can verify, for example, that their messaging application chat is not intercepted by a MITM.
 By building on top of the popular OpenID Connect protocol, SOAP automates the authentication ceremony and does not require adoption from any OpenID Connect-IdP.
-SOAP is currently under submission for academic publishing.
 The paper contains four contributions.
 
 * We formally define the notion of *Social Authentication* as a security property.
@@ -24,6 +23,8 @@ The paper contains four contributions.
 * We formally verify SOAP's security using the Tamarin model checker.
 * We implement SOAP in two prototypes: a [web-based prototype](https://soap-proto.net), and an extension of the Signal Android application.
 A video demo of the Signal prototype is shown below.
+
+SOAP has been accepted for publication at [USENIX Security 24](https://www.usenix.org/conference/usenixsecurity24/)!
 
 You can find all sources related to this project [here](/sources).
 
