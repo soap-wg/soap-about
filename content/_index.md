@@ -24,8 +24,11 @@ The paper contains four contributions.
 * We implement SOAP in two prototypes: a [web-based prototype](https://soap-proto.net), and an extension of the Signal Android application.
 A video demo of the Signal prototype is shown below.
 
-SOAP has been accepted for publication at [USENIX Security 24](https://www.usenix.org/conference/usenixsecurity24/)!
+SOAP was developed in the [Centre for Cyber Trust](https://cyber-trust.org/) which is funded by the Werner Siemens-Stiftung (WSS).
 
-You can find all sources related to this project [here](/sources).
+---
+
+* SOAP has been accepted for publication at [USENIX Security 24](https://www.usenix.org/conference/usenixsecurity24/)!
+* You can find all sources related to this project [here](/sources).
 
 {{< youtube Ip_RAF8PRrM >}}
