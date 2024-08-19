@@ -28,7 +28,7 @@ SOAP was developed in the [Centre for Cyber Trust](https://cyber-trust.org/) whi
 
 ---
 
-* SOAP has been accepted for publication at [USENIX Security 24](https://www.usenix.org/conference/usenixsecurity24/)!
+* SOAP has published at [USENIX Security 24](https://www.usenix.org/conference/usenixsecurity24/presentation/linker)!
 * You can find all sources related to this project [here](/sources).
 
 {{< youtube Ip_RAF8PRrM >}}
