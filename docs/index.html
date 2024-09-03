@@ -119,9 +119,10 @@
 When performing social authentication, users verify that their chat partner controls accounts at different identity providers (IdPs) which they know are controlled by their intended chat partner.
 Using social authentication, users can verify, for example, that their messaging application chat is not intercepted by a MITM.
 By building on top of the popular OpenID Connect protocol, SOAP automates the authentication ceremony and does not require adoption from any OpenID Connect-IdP.
-The paper contains four contributions.</p>
+The paper presents five contributions.</p>
 <ul>
 <li>We formally define the notion of <em>Social Authentication</em> as a security property.</li>
+<li>We show how our formalization relates to existing notions of authentication and that it finds application beyond secure messaging.</li>
 <li>We present the protocol design of SOAP.</li>
 <li>We formally verify SOAP&rsquo;s security using the Tamarin model checker.</li>
 <li>We implement SOAP in two prototypes: a <a href="https://soap-proto.net">web-based prototype</a>, and an extension of the Signal Android application.
